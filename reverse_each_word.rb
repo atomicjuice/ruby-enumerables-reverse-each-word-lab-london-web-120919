@@ -1,5 +1,5 @@
 def reverse_each_word(string)
-string.each {
+puts string.each {
   |string| string.everse
 }
 end
